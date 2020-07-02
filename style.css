@@ -1,4 +1,4 @@
-.masonry-wrapper .grid-item .grid-item__inner, .setting .grid-item .grid-item__inner{position:relative;}
+1.masonry-wrapper .grid-item .grid-item__inner, .setting .grid-item .grid-item__inner{position:relative;}
 .masonry-wrapper.ac_masonry-grid .grid-item__content-wrapper, .setting.ac_masonry-grid .grid-item__content-wrapper{position:absolute;}
 .masonry-wrapper .grid-item .grid-item__inner .grid-item__content-wrapper, .setting .grid-item .grid-item__inner .grid-item__content-wrapper{overflow:hidden;}
 .masonry-wrapper.ac_masonry-grid .grid-item__content-wrapper, .setting.ac_masonry-grid .grid-item__content-wrapper{margin:0 !important;}
